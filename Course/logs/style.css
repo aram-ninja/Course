@@ -18,15 +18,19 @@ h1 {
     font-size: 25px;
     margin-left: 200px;
     margin-top: 200px;
+    color: aqua;
   }
   50% {
     font-size: 30px;
     margin-left: 300px;
     margin-top: 300px;
+    color: aquamarine;
   }
   100% {
     font-size: 40px;
     margin-left: 400px;
     margin-top: 400px;
+    color: blueviolet;
+    text-transform: uppercase;
   }
 }
